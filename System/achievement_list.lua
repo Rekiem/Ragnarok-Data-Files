@@ -43,13 +43,13 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 0,
-		title = "ÇÁ·ÐÅ×¶ó ºÏÂÊ ÇÊµå Å½Çè(1)", 
+		title = "Exploración en el campo norte de Prontera(1)", 
 		content = {
-			summary = "¼û°ÜÁø º¸¹° ¹ß°ß",
-			details = "ÇÁ·ÐÅ×¶ó ºÏÂÊ ÁÖº¯ ÇÊµåÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"
+			summary = "Encuentra el tesoro oculto",
+			details = "Encuentra el tesoro que rodea el campo norte de Prontera"
 		},
 		resource = {
-			[1] = { text = "ÇÁ·ÐÅ×¶ó ºÏÂÊ ÁÖº¯ÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"}}, 
+			[1] = { text = "Encuentra el tesoro que rodea el campo norte de Prontera"}}, 
 		reward = {item = 22876},
 		score = 10
 	},
@@ -59,13 +59,13 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 0,
-		title = "ÇÁ·ÐÅ×¶ó ºÏÂÊ ÇÊµå Å½Çè(2)", 
+		title = "Exploración en el campo norte de Prontera(2)", 
 		content = {
-			summary = "¼û°ÜÁø º¸¹° ¹ß°ß",
-			details = "ÇÁ·ÐÅ×¶ó ºÏÂÊ ÁÖº¯ ÇÊµåÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"
+			summary = "Encuentra el tesoro oculto",
+			details = "Encuentra el tesoro que rodea el campo norte de Prontera"
 		},
 		resource = {
-			[1] = { text = "ÇÁ·ÐÅ×¶ó ºÏÂÊ ÁÖº¯ÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"}}, 
+			[1] = { text = "Encuentra el tesoro que rodea el campo norte de Prontera"}}, 
 		reward = {item = 22876},
 		score = 10
 	},
@@ -75,13 +75,13 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 0,
-		title = "ÇÁ·ÐÅ×¶ó ºÏÂÊ ÇÊµå Å½Çè(3)", 
+		title = "Exploración en el campo norte de Prontera(3)", 
 		content = {
-			summary = "¼û°ÜÁø º¸¹° ¹ß°ß",
-			details = "ÇÁ·ÐÅ×¶ó ºÏÂÊ ÁÖº¯ ÇÊµåÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"
+			summary = "Encuentra el tesoro oculto",
+			details = "Encuentra el tesoro que rodea el campo norte de Prontera"
 		},
 		resource = {
-			[1] = { text = "ÇÁ·ÐÅ×¶ó ºÏÂÊ ÁÖº¯ÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"}}, 
+			[1] = { text = "Encuentra el tesoro que rodea el campo norte de Prontera"}}, 
 		reward = {item = 22876},
 		score = 10
 	},
@@ -91,13 +91,13 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 0,
-		title = "ÇÁ·ÐÅ×¶ó ¼­ÂÊ ÇÊµå Å½Çè(1)", 
+		title = "Exploración en el campo oeste de Prontera(1)", 
 		content = {
-			summary = "¼û°ÜÁø º¸¹° ¹ß°ß",
-			details = "ÇÁ·ÐÅ×¶ó ¼­ÂÊ ÁÖº¯ ÇÊµåÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"
+			summary = "Encuentra el tesoro oculto",
+			details = "Encuentra el tesoro que rodea el campo oeste de Prontera"
 		},
 		resource = {
-			[1] = { text = "ÇÁ·ÐÅ×¶ó ¼­ÂÊ ÁÖº¯ÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"}}, 
+			[1] = { text = "Encuentra el tesoro que rodea el campo oeste de Prontera"}}, 
 		reward = {item = 22876},
 		score = 10
 	},
@@ -107,13 +107,13 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 0,
-		title = "ÇÁ·ÐÅ×¶ó ¼­ÂÊ ÇÊµå Å½Çè(2)", 
+		title = "Exploración en el campo oeste de Prontera(2)", 
 		content = {
-			summary = "¼û°ÜÁø º¸¹° ¹ß°ß",
-			details = "ÇÁ·ÐÅ×¶ó ¼­ÂÊ ÁÖº¯ ÇÊµåÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"
+			summary = "Encuentra el tesoro oculto",
+			details = "Encuentra el tesoro que rodea el campo oeste de Prontera"
 		},
 		resource = {
-			[1] = { text = "ÇÁ·ÐÅ×¶ó ¼­ÂÊ ÁÖº¯ÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"}}, 
+			[1] = { text = "Encuentra el tesoro que rodea el campo oeste de Prontera"}}, 
 		reward = {item = 22876},
 		score = 10
 	},
@@ -123,13 +123,13 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 0,
-		title = "ÇÁ·ÐÅ×¶ó µ¿ÂÊ ÇÊµå Å½Çè", 
+		title = "Exploración en el campo este de Prontera", 
 		content = {
-			summary = "¼û°ÜÁø º¸¹° ¹ß°ß",
-			details = "ÇÁ·ÐÅ×¶ó µ¿ÂÊ ÁÖº¯ ÇÊµåÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"
+			summary = "Encuentra el tesoro oculto",
+			details = "Encuentra el tesoro que rodea el campo este de Prontera"
 		},
 		resource = {
-			[1] = { text = "ÇÁ·ÐÅ×¶ó µ¿ÂÊ ÁÖº¯ÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"}}, 
+			[1] = { text = "Encuentra el tesoro que rodea el campo este de Prontera"}}, 
 		reward = {item = 22876},
 		score = 10
 	},
@@ -139,13 +139,13 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 0,
-		title = "ÇÁ·ÐÅ×¶ó ³²ÂÊ ÇÊµå Å½Çè(1)", 
+		title = "Exploración en el campo sur de Prontera(1)", 
 		content = {
-			summary = "¼û°ÜÁø º¸¹° ¹ß°ß",
-			details = "ÇÁ·ÐÅ×¶ó ³²ÂÊ ÁÖº¯ ÇÊµåÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"
+			summary = "Encuentra el tesoro oculto",
+			details = "Encuentra el tesoro que rodea el campo sur de Prontera"
 		},
 		resource = {
-			[1] = { text = "ÇÁ·ÐÅ×¶ó ³²ÂÊ ÁÖº¯ÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"}}, 
+			[1] = { text = "Encuentra el tesoro que rodea el campo sur de Prontera"}}, 
 		reward = {item = 22876},
 		score = 10
 	},
@@ -155,13 +155,13 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 0,
-		title = "ÇÁ·ÐÅ×¶ó ³²ÂÊ ÇÊµå Å½Çè(2)", 
+		title = "Exploración en el campo sur de Prontera(2)", 
 		content = {
-			summary = "¼û°ÜÁø º¸¹° ¹ß°ß",
-			details = "ÇÁ·ÐÅ×¶ó ³²ÂÊ ÁÖº¯ ÇÊµåÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"
+			summary = "Encuentra el tesoro oculto",
+			details = "Encuentra el tesoro que rodea el campo sur de Prontera"
 		},
 		resource = {
-			[1] = { text = "ÇÁ·ÐÅ×¶ó ³²ÂÊ ÁÖº¯ÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"}}, 
+			[1] = { text = "Encuentra el tesoro que rodea el campo sur de Prontera"}}, 
 		reward = {item = 22876},
 		score = 10
 	},
@@ -171,13 +171,13 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 0,
-		title = "ÇÁ·ÐÅ×¶ó ³²ÂÊ ÇÊµå Å½Çè(3)", 
+		title = "Exploración en el campo sur de Prontera(3)", 
 		content = {
-			summary = "¼û°ÜÁø º¸¹° ¹ß°ß",
-			details = "ÇÁ·ÐÅ×¶ó ³²ÂÊ ÁÖº¯ ÇÊµåÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"
+			summary = "Encuentra el tesoro oculto",
+			details = "Encuentra el tesoro que rodea el campo sur de Prontera"
 		},
 		resource = {
-			[1] = { text = "ÇÁ·ÐÅ×¶ó ³²ÂÊ ÁÖº¯ÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"}}, 
+			[1] = { text = "Encuentra el tesoro que rodea el campo sur de Prontera"}}, 
 		reward = {item = 22876},
 		score = 10
 	},
@@ -187,13 +187,13 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 0,
-		title = "ÇÁ·ÐÅ×¶ó ³²ÂÊ ÇÊµå Å½Çè(4)", 
+		title = "Exploración en el campo sur de Prontera(4)", 
 		content = {
-			summary = "¼û°ÜÁø º¸¹° ¹ß°ß",
-			details = "ÇÁ·ÐÅ×¶ó ³²ÂÊ ÁÖº¯ ÇÊµåÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"
+			summary = "Encuentra el tesoro oculto",
+			details = "Encuentra el tesoro que rodea el campo sur de Prontera"
 		},
 		resource = {
-			[1] = { text = "ÇÁ·ÐÅ×¶ó ³²ÂÊ ÁÖº¯ÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"}}, 
+			[1] = { text = "Encuentra el tesoro que rodea el campo sur de Prontera"}}, 
 		reward = {item = 22876},
 		score = 10
 	},
