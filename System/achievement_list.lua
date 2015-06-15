@@ -203,13 +203,13 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 0,
-		title = "°ÔÆæ µ¿ÂÊ ÇÊµå Å½Çè", 
+		title = "Exploración en el campo este de Geffen", 
 		content = {
-			summary = "¼û°ÜÁø º¸¹° ¹ß°ß",
-			details = "°ÔÆæ µ¿ÂÊ ÁÖº¯ ÇÊµåÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"
+			summary = "Encuentra el tesoro oculto",
+			details = "°Encuentra el tesoro que rodea el campo este de Geffen"
 		},
 		resource = {
-			[1] = { text = "°ÔÆæ µ¿ÂÊ ÁÖº¯ÀÇ º¸¹°À» ¹ß°ßÇÑ´Ù"}}, 
+			[1] = { text = "Encuentra el tesoro que rodea el campo este de Geffen"}}, 
 		reward = {item = 22876},
 		score = 10
 	},
